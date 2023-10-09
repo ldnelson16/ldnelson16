@@ -4,7 +4,7 @@
 <a href="https://www.lukednelson.com"><img height="40" width="40" src="./img/mywebsite.png"></a>&nbsp;&nbsp;
 <a href="mailto:ldnelson16@gmail.com"><img height="40" width="40" src="./img/email.jpg"></a>&nbsp;&nbsp;
 
-Computer Engineering Student @ [University of Michigan, Ann Arbor - College of Engineering](https://www.engin.umich.edu/)\ 
+Computer Engineering Student @ [University of Michigan, Ann Arbor - College of Engineering](https://www.engin.umich.edu/) 
 
 Software Engineering @ [SPARK](https://spark.engin.umich.edu/) 
 
@@ -12,9 +12,9 @@ Coder @ [CANTOR](https://michigancantor.com/)
 
 ### Organizations
 
-<img height="40" width="40" src="./img/michigan.jpg">&nbsp;&nbsp;
-<img height="40" width="40" src="./img/spark.jpeg">&nbsp;&nbsp;
-<img height="40" width="40" src="./img/cantor.png">&nbsp;&nbsp;
+<a href="https://www.engin.umich.edu/"><img height="40" width="40" src="./img/michigan.jpg">&nbsp;&nbsp;</a>
+<a href="https://spark.engin.umich.edu/"><img height="40" width="40" src="./img/spark.jpeg">&nbsp;&nbsp;</a>
+<a href="https://michigancantor.com/"><img height="40" width="40" src="./img/cantor.png">&nbsp;&nbsp;</a>
 
 Computer Science Student with extensive experience in various programming and software fields.
 Actively seeking to learn about and explore opportunities such as advanced computer vision, natural language processing, and many more. 
