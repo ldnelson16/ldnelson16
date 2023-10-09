@@ -16,14 +16,14 @@ Coder @ [CANTOR](https://michigancantor.com/)
 <img height="40" width="40" src="./img/spark.jpeg">&nbsp;&nbsp;
 <img height="40" width="40" src="./img/cantor.png">&nbsp;&nbsp;
 
-Computer Engineering Student with extensive experience in various industry technologies.
-Actively seeking opportunities to learn about and explore fields such as . . . 
+Computer Science Student with extensive experience in various programming and software fields.
+Actively seeking to learn about and explore opportunities such as advanced computer vision, natural language processing, and many more. 
 
 ## Notable Projects
 
-- 1
-- 2
-- 3
+- [www.lukednelson.com</a>](https://www.lukednelson.com) - My website which features a Python backend for scraping college football recruiting data from four major sources, constructing an interactive database, and planning to add a task planner and a portfolio of GitHub projects.
+- [Word Search](github.com/ldnelson16/wordsearch) - Word Search creator which will create a word search based on a given width and height dimension, and user inputted words. Built to showcase budding C++ data structures and algorithms skills.
+- [Traffic Optimization](github.com/ldnelson16/trafficoptimizer) - A project which I am currently working on, which I will create a model that given traffic data about a city, can suggest a more optimal timing of city streetlight timings to increase the flow of traffic. I plan to complete this and hopefully showcase to local governments to improve city traffic infrastructure. 
 
 ## Skills
 
