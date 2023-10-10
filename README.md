@@ -16,16 +16,11 @@ Actively seeking opportunities to learn about and explore fields such as . . .
 - 2
 - 3
 
-#### Education
+#### Skills
 
-<a href="https://www.engin.umich.edu/"><img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/um.png"></a>&nbsp;&nbsp;
-<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/cs.png">&nbsp;&nbsp;
-
-### Skills
-
-<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/pandas.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/tensorflow.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/gitjs.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/pandas.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/git.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/github.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/nextjs.png">&nbsp;&nbsp;
 
@@ -33,13 +28,13 @@ Actively seeking opportunities to learn about and explore fields such as . . .
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/sql.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/html.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/css.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/matlab.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/r.png">&nbsp;&nbsp;
 
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/matlab.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/nodeprojectmanager.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/vscode.png">&nbsp;&nbsp;
 
-### Languages
+#### Languages
 
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/cpp.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/python.png">&nbsp;&nbsp;
