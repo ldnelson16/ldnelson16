@@ -18,6 +18,7 @@ Actively seeking opportunities to learn about and explore fields such as . . .
 
 #### Skills
 
+![TensorFlow](./img/tensorflow.png)
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/img/tensorflow.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/pandas.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/git.png">&nbsp;&nbsp;
