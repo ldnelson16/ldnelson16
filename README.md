@@ -1,16 +1,46 @@
-### Hi there 👋
+## Luke Nelson
 
-<!--
-**ldnelson16/ldnelson16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/nelsonluke/"><img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:ldnelson16@gmail.com"><img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/email.png"></a>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+Computer Engineering Student @ [University of Michigan, Ann Arbor - College of Engineering](https://www.engin.umich.edu/)\
+Software Engineering @ [SPARK](https://spark.engin.umich.edu/)
+Coder @ [CANTOR](https://michigancantor.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Engineering Student with extensive experience in various industry technologies.
+Actively seeking opportunities to learn about and explore fields such as . . . 
+
+#### Notable Projects
+
+- 1
+- 2
+- 3
+
+#### Education
+
+<a href="https://www.engin.umich.edu/"><img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/um.png"></a>&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/cs.png">&nbsp;&nbsp;
+
+### Skills
+
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/pandas.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/tensorflow.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/gitjs.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/github.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/nextjs.png">&nbsp;&nbsp;
+
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/nodejs.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/sql.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/html.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/css.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/matlab.png">&nbsp;&nbsp;
+
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/matlab.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/nodeprojectmanager.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/vscode.png">&nbsp;&nbsp;
+
+### Languages
+
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/cpp.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/python.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/ldnelson16/ldnelson16/blob/master/img/javascript.png">&nbsp;&nbsp;
