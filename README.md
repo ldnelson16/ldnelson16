@@ -43,7 +43,7 @@ Actively seeking to learn about and explore opportunities such as advanced compu
 <img height="50" width="50" src="./img/nodeprojectmanager.jpg">&nbsp;&nbsp;
 <img height="50" width="50" src="./img/vscode.jpg">&nbsp;&nbsp;
 
-## Languages
+## Top Languages
 
 <img height="50" width="50" src="./img/cpp.jpg">&nbsp;&nbsp;
 <img height="50" width="50" src="./img/python.jpg">&nbsp;&nbsp;
