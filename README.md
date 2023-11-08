@@ -22,7 +22,7 @@ Actively seeking to learn about and explore opportunities such as advanced compu
 ## Notable Projects
 
 - [www.lukednelson.com</a>](https://www.lukednelson.com) - My website which features a Python backend for scraping college football recruiting data from four major sources, constructing an interactive database, and planning to add a task planner and a portfolio of GitHub projects.
-- [The Atlas Project](hhtps::/github.com/ldnelson16/atlas) - UMICH Atlas Web Scraper & Academic Advisor – Python project employing web scraping and stats to aid University of Michigan students with academic choices, featuring GUI and CLI.
+- [The Atlas Project](htps://github.com/ldnelson16/atlas) - UMICH Atlas Web Scraper & Academic Advisor – Python project employing web scraping and stats to aid University of Michigan students with academic choices, featuring GUI and CLI.
 - [Word Search](https://github.com/ldnelson16/wordsearch) - Word Search creator which will create a word search based on a given width and height dimension, and user inputted words. Built to showcase budding C++ data structures and algorithms skills.
 - [Traffic Optimization](https://github.com/ldnelson16/trafficoptimizer) - A project which I am currently working on, which I will create a model that given traffic data about a city, can suggest a more optimal timing of city streetlight timings to increase the flow of traffic. I plan to complete this and hopefully showcase to local governments to improve city traffic infrastructure. 
 
