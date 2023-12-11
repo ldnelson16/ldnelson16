@@ -51,3 +51,5 @@ Actively seeking to learn about and explore opportunities such as advanced compu
 <img height="50" width="50" src="./img/javascript.png">&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldnelson16&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ldnelson16&v=2)](https://github.com/anuraghazra/github-readme-stats)
