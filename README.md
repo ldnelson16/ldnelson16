@@ -52,4 +52,4 @@ Actively seeking to learn about and explore opportunities such as advanced compu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldnelson16&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ldnelson16&v=0)][(https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=ldnelson16&v=0))
+[![Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ldnelson16&v=0)](https://github-readme-stats.vercel.app/api/wakatime?username=ldnelson16&v=0)
