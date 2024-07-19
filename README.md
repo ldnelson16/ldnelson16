@@ -23,7 +23,7 @@ Actively seeking to learn about and explore career opportunities such as RTL des
 
 ## Notable Projects
 - [PRKR](https::/github.com/ldnelson16/parker-language) - My own object oriented programming language, which compiles down to my own custom instruction set. Will be complete by the end of 2024, when I will also design in System Verilog a operational RISC-V-esque core which can run my instruction language. 
-- [UART Transceiver for the FPGA](https://github.com/ldnelson16/uart-controller) - UART Transceiver Controller. Downloadable to FPGA board, can send traffic at up to 50 MBps using SystemVerilog. 
+- [UART Transceiver for the FPGA](https://github.com/ldnelson16/uart-controller) - UART Transceiver Controller. Downloadable to FPGA board, can send traffic at up to 50 MBps. 
 - [www.lukednelson.com](https://www.lukednelson.com) - My website which features a Python backend for scraping college football recruiting data from four major sources, constructing an interactive database, and planning to add a task planner and a portfolio of GitHub projects.
 
 ## Skills
