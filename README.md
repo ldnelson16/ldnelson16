@@ -8,10 +8,6 @@ Intern @ Keysight
 
 Computer Engineering Student @ [University of Michigan, Ann Arbor - College of Engineering](https://www.engin.umich.edu/) 
 
-Software Engineering @ [SPARK](https://spark.engin.umich.edu/) 
-
-Coder @ [CANTOR](https://michigancantor.com/) 
-
 ### Organizations
 
 <a href="https://www.engin.umich.edu/"><img height="40" width="40" src="./img/michigan.jpg">&nbsp;&nbsp;</a>
